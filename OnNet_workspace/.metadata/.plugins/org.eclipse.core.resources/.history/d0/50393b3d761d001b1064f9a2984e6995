@@ -1,0 +1,13 @@
+package com.koreait.onnet.rest;
+
+@Service
+public class RestService {
+
+	@Autowired
+	private RestMapper mapper;
+
+	String selRestList(RestPARAM param) {
+		List<RestDMI> list = mapper.selRestList(param);
+		Gson gson = new Gson();
+		return gson.toJson(list);
+	}

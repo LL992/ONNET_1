@@ -1,0 +1,14 @@
+package com.koreait.onnet.user;
+
+import org.springframework.stereotype.Service;
+
+import com.koreait.onnet.model.UserVO;
+
+@Service
+public class UserService {
+
+	public int login(UserVO param) {
+		
+		return 2;
+	}
+}

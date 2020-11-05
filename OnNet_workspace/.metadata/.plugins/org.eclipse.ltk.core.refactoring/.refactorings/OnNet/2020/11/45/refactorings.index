@@ -1,0 +1,15 @@
+1604277456404	Delete element
+1604278057571	Rename package 'com.koreait.matzip'
+1604278082177	Rename package 'com.koreait.matzip.user.model'
+1604278090589	Rename package 'com.koreait.matzip.user'
+1604278099486	Rename package 'com.koreait.matzip.model'
+1604282168263	Delete element
+1604283686575	Rename type 'fileUtils'
+1604284303719	Delete element
+1604284640418	Delete element
+1604366754916	Move 'mybatis-alias.xml' to 'spring'
+1604366952602	Move compilation unit
+1604539499499	Rename type 'CodeDomain'
+1604554848813	Rename type 'LoginChekinterceptor'
+1604562707743	Rename type 'RestaurantRecommendMenuVO'
+1604565844179	Move compilation unit

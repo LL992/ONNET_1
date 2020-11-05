@@ -1,0 +1,5 @@
+package com.koreait.onnet.user;
+
+public class UserController {
+
+}

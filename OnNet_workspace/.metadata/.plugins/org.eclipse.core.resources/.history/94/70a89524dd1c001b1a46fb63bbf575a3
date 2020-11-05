@@ -1,0 +1,11 @@
+package com.koreait.onnet.user;
+
+import org.apache.ibatis.annotations.Mapper;
+
+import com.koreait.onnet.model.UserVO;
+
+@Mapper
+public interface UserMapper {
+	public int insUser(UserVO p);
+	public UserDMI selUser(UserDTO p);
+}
